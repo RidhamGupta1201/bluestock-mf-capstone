@@ -1,0 +1,12 @@
+DATA QUALITY REPORT — DAY 1
+============================
+Total funds in fund_master      : 40
+Unique funds in nav_history     : 40
+Codes in master BUT NOT in nav  : None — all matched
+Codes in nav BUT NOT in master  : None
+nav_history total rows          : 46000
+nav_history date range          : 2022-01-03 to 2026-05-29
+Null values in nav_history:
+amfi_code    0
+date         0
+nav          0
