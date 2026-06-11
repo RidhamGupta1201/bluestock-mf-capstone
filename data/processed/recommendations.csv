@@ -1,0 +1,16 @@
+scheme_name,category,plan,sharpe_ratio,ann_return,expense_ratio_pct,return_3yr_pct,max_drawdown_pct,risk_grade,rank,input_risk_appetite
+ICICI Pru Liquid Fund - Regular - Growth,Debt,Regular,0.9622,6.9752,0.74,7.68,-2.62,Low,1,Low
+Kotak Liquid Fund - Regular - Growth,Debt,Regular,0.3215,6.665,0.6,6.18,-3.81,Low,2,Low
+SBI Magnum Gilt Fund - Regular Plan - Growth,Debt,Regular,-0.2074,5.6773,0.77,6.07,-2.3,Low,3,Low
+Mirae Asset Large Cap Fund - Regular - Growth,Equity,Regular,1.6374,29.7414,1.46,14.81,-17.07,Moderate,1,Moderate
+SBI Bluechip Fund - Regular Plan - Growth,Equity,Regular,1.3315,24.7966,1.54,12.36,-21.7,Moderate,2,Moderate
+Nippon India Large Cap Fund - Regular - Growth,Equity,Regular,1.1744,23.1161,1.51,14.0,-16.07,Moderate,3,Moderate
+Kotak Flexicap Fund - Regular - Growth,Equity,Regular,1.4589,29.6776,1.45,15.65,-19.5,Moderately High,1,Moderately High
+Mirae Asset Emerging Bluechip Fund - Regular - Growth,Equity,Regular,0.9818,21.648,1.52,14.56,-33.15,Moderately High,2,Moderately High
+ICICI Pru Value Discovery Fund - Regular - Growth,Equity,Regular,0.6526,16.4394,1.41,14.76,-21.89,Moderately High,3,Moderately High
+Mirae Asset Tax Saver Fund - Regular - Growth,Equity,Regular,1.3677,30.6736,1.6,13.58,-22.62,High,1,High
+ICICI Pru Midcap Fund - Regular - Growth,Equity,Regular,1.2966,31.5124,1.36,18.08,-21.84,High,2,High
+DSP Midcap Fund - Regular - Growth,Equity,Regular,1.2346,28.4096,1.61,17.16,-26.99,High,3,High
+DSP Small Cap Fund - Regular - Growth,Equity,Regular,0.9862,30.9965,1.52,20.08,-17.01,Very High,1,Very High
+SBI Small Cap Fund - Regular Plan - Growth,Equity,Regular,0.9796,31.1266,1.43,23.39,-13.35,Very High,2,Very High
+Nippon India Small Cap Fund - Regular - Growth,Equity,Regular,0.3667,15.7567,1.53,20.15,-30.87,Very High,3,Very High
