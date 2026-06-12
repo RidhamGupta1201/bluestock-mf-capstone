@@ -57,6 +57,8 @@ python scripts/compute_metrics.py
 | Day 4 | notebooks/04_performance_analytics.ipynb | 7 metric CSVs |
 | Day 5 | dashboard/bluestock_mf.pbix | Power BI dashboard |
 | Day 6 | notebooks/05_advanced_analytics.ipynb | VaR, HHI, recommender |
+| Day 7 | reports/Bluestock_MF_Final_Report.pdf + Bluestock_MF_Presentation.pptx | Final Report and Presentation |
+
 
 ## Data Sources
 - AMFI India: amfiindia.com
@@ -79,7 +81,7 @@ Bluestock MF Capstone
 │
 ├── dashboard/  ← bluestock_mf.pbix
 │
-├── reports/  ← charts + quality reports
+├── reports/  ← charts + quality reports + final reports and presentations
 |
 ├── data_dictionary.md
 |
