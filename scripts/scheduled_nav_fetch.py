@@ -1,3 +1,10 @@
+"""
+Bluestock MF Capstone — scheduled_nav_fetch.py
+Bonus B1: Scheduled version of live_nav_fetch.py with retry logic
+and logging. Run via Windows Task Scheduler every weekday at 8 PM.
+Run: python scripts/scheduled_nav_fetch.py
+"""
+
 import requests
 import pandas as pd
 from pathlib import Path

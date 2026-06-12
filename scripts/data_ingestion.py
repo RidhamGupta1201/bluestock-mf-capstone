@@ -1,3 +1,10 @@
+"""
+Bluestock MF Capstone — data_ingestion.py
+Loads all 10 provided CSV datasets and prints shape, dtypes, head()
+for each to understand the data structure.
+Run: python scripts/data_ingestion.py
+"""
+
 from pathlib import Path
 import pandas as pd
 

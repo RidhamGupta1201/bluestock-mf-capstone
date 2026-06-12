@@ -1,6 +1,8 @@
 """
-Bluestock MF Capstone — ETL Pipeline
-Loads all cleaned CSVs into SQLite database (bluestock_mf.db)
+Bluestock MF Capstone — etl_pipeline.py
+Runs sql/schema.sql to create all 10 tables, loads cleaned CSVs
+from data/processed/ into SQLite, and verifies row counts.
+Run: python scripts/etl_pipeline.py
 """
 
 import pandas as pd

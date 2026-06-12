@@ -64,14 +64,23 @@ python scripts/compute_metrics.py
 - NSE India: nseindia.com/reports
 
 ## Project Structure
-bluestock_mf_capstone/
-├── data/raw/          ← 15 original CSV files
-├── data/processed/    ← 17 cleaned + metric CSV files
-├── data/db/           ← bluestock_mf.db (SQLite)
-├── notebooks/         ← 6 Jupyter notebooks
-├── scripts/           ← 6 Python scripts
-├── sql/               ← schema.sql + queries.sql
-├── dashboard/         ← bluestock_mf.pbix
-├── reports/           ← charts + quality reports
+Bluestock MF Capstone
+│
+├── Data/
+│   ├── raw/  ← 15 original CSV files
+│   ├── processed/  ← 17 cleaned + metric CSV files
+│   └── db/  ← bluestock_mf.db (SQLite)
+│
+├── notebooks/  ← 6 Jupyter notebooks
+|
+├── scripts/  ← 6 Python scripts
+│
+├── sql/  ← schema.sql + queries.sql
+│
+├── dashboard/  ← bluestock_mf.pbix
+│
+├── reports/  ← charts + quality reports
+|
 ├── data_dictionary.md
+|
 └── requirements.txt

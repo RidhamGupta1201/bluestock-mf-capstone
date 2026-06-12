@@ -1,3 +1,10 @@
+"""
+Bluestock MF Capstone — live_nav_fetch.py
+Fetches live NAV data from mfapi.in REST API for 6 fund schemes
+(HDFC Top 100, SBI/ICICI/Nippon/Axis/Kotak Bluechip) and saves as CSV.
+Run: python scripts/live_nav_fetch.py
+"""
+
 from pathlib import Path
 import pandas as pd
 import requests
